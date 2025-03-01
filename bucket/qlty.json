@@ -11,8 +11,10 @@
     },
     "bin": "qlty.exe",
     "shortcuts": [
-        "qlty.exe",
-        "qlty"
+        [
+            "qlty.exe",
+            "qlty"
+        ]
     ],
     "checkver": {
         "github": "https://github.com/qltysh/qlty"
