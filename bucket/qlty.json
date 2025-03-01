@@ -9,10 +9,10 @@
             "hash": "e7ed4a0c27f6ba1d447bfd56c304a3df66d335d0f3d7bece161b0e7d71b2c0a1"
         }
     },
-    "bin": "qlty",
+    "bin": "qlty.exe",
     "shortcuts": [
-        "qlty",
-        "qlty.exe"
+        "qlty.exe",
+        "qlty"
     ],
     "checkver": {
         "github": "https://github.com/qltysh/qlty"
