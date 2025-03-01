@@ -97,6 +97,7 @@ scoop config aria2-min-split-size 4M
 |          [n-m3u8dl-re](https://github.com/nilaoda/N_m3u8DL-RE)          |       ✓       |
 |               [pixi](https://github.com/prefix-dev/pixi)                |       ✓       |
 |         [pscompletions](https://github.com/abgox/PSCompletions)         |       ✓       |
+|                         [qlty](https://qlty.sh)                         |       ✓       |
 |             [sendme](https://github.com/n0-computer/sendme)             |       ✓       |
 |             [serpl](https://github.com/yassinebridi/serpl)              |       ✓       |
 |           [shiroa](https://github.com/Myriad-Dreamin/shiroa)            |       ✓       |
