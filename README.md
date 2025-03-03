@@ -83,24 +83,25 @@ scoop config aria2-min-split-size 4M
 
 ## ⭐️ Summary
 
-|                                   App                                   | Auto-Update ? |
-| :---------------------------------------------------------------------: | :-----------: |
-|          [cargo-dist](https://github.com/axodotdev/cargo-dist)          |       ✓       |
-|             [chatgpt-cli](https://github.com/j178/chatgpt)              |       ✓       |
-|          [cxx2flow](https://github.com/Enter-tainer/cxx2flow)           |       ✓       |
-| [excalidraw-converter](https://github.com/sindrel/excalidraw-converter) |       ✓       |
-|               [gauth](https://github.com/pcarrier/gauth)                |       ✓       |
-|        [ltex-ls-plus](https://github.com/ltex-plus/ltex-ls-plus)        |       ✓       |
-|                 [mado](https://github.com/akiomik/mado)                 |       ✓       |
-|            [micromamba](https://github.com/mamba-org/mamba)             |       ✓       |
-|        [neocmakelsp](https://github.com/neocmakelsp/neocmakelsp)        |       ✓       |
-|          [n-m3u8dl-re](https://github.com/nilaoda/N_m3u8DL-RE)          |       ✓       |
-|               [pixi](https://github.com/prefix-dev/pixi)                |       ✓       |
-|         [pscompletions](https://github.com/abgox/PSCompletions)         |       ✓       |
-|                         [qlty](https://qlty.sh)                         |       ✓       |
-|             [sendme](https://github.com/n0-computer/sendme)             |       ✓       |
-|             [serpl](https://github.com/yassinebridi/serpl)              |       ✓       |
-|           [shiroa](https://github.com/Myriad-Dreamin/shiroa)            |       ✓       |
-|            [tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt)            |       ✓       |
-|          [typstyle](https://github.com/Enter-tainer/typstyle)           |       ✓       |
-|         [wthrr](https://github.com/ttytm/wthrr-the-weathercrab)         |       ✓       |
+|                                   App                                   |  Language  | Auto-Update ? |
+| :---------------------------------------------------------------------: | :--------: | :-----------: |
+|          [cargo-dist](https://github.com/axodotdev/cargo-dist)          |    rust    |       ✓       |
+|             [chatgpt-cli](https://github.com/j178/chatgpt)              |     go     |       ✓       |
+|          [cxx2flow](https://github.com/Enter-tainer/cxx2flow)           |    rust    |       ✓       |
+| [excalidraw-converter](https://github.com/sindrel/excalidraw-converter) |     go     |       ✓       |
+|               [gauth](https://github.com/pcarrier/gauth)                |     go     |       ✓       |
+|        [ltex-ls-plus](https://github.com/ltex-plus/ltex-ls-plus)        |   kotlin   |       ✓       |
+|                 [mado](https://github.com/akiomik/mado)                 |    rust    |       ✓       |
+|            [micromamba](https://github.com/mamba-org/mamba)             |    c++     |       ✓       |
+|        [neocmakelsp](https://github.com/neocmakelsp/neocmakelsp)        |    rust    |       ✓       |
+|          [n-m3u8dl-re](https://github.com/nilaoda/N_m3u8DL-RE)          |     c#     |       ✓       |
+|               [pixi](https://github.com/prefix-dev/pixi)                |    rust    |       ✓       |
+|         [pscompletions](https://github.com/abgox/PSCompletions)         | powershell |       ✓       |
+|                         [qlty](https://qlty.sh)                         |    rust    |       ✓       |
+|             [sendme](https://github.com/n0-computer/sendme)             |    rust    |       ✓       |
+|             [serpl](https://github.com/yassinebridi/serpl)              |    rust    |       ✓       |
+|           [shiroa](https://github.com/Myriad-Dreamin/shiroa)            |    rust    |       ✓       |
+|              [sttr](https://github.com/abhimanyu003/sttr)               |     go     |       ✓       |
+|            [tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt)            |    rust    |       ✓       |
+|          [typstyle](https://github.com/Enter-tainer/typstyle)           |    rust    |       ✓       |
+|         [wthrr](https://github.com/ttytm/wthrr-the-weathercrab)         |    rust    |       ✓       |
