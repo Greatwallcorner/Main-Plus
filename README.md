@@ -1,4 +1,4 @@
-# 🍨 Scoop Main Plus 🍨
+# 🍨 Main-Plus 🍨
 
 [![Excavator](https://github.com/Scoopforge/Main-Plus/actions/workflows/ci.yml/badge.svg)](https://github.com/Scoopforge/Main-Plus/actions/workflows/ci.yml)
 [![license](https://img.shields.io/github/license/Scoopforge/Main-Plus)](https://github.com/Scoopforge/Main-Plus/blob/master/LICENSE)
