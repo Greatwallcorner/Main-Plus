@@ -40,7 +40,7 @@ irm get.scoop.sh -outfile 'install.ps1'
 
 ### 📖 Step 3: Glance at quick-start by `scoop help`
 
-For more information, please visit Scoop official site at 👉 https://scoop.sh/ 👈
+For more information, please visit Scoop official site at 👉 <https://scoop.sh/> 👈
 
 ## 🚗 Install Apps from this bucket
 
@@ -85,24 +85,25 @@ scoop config aria2-min-split-size 4M
 
 |                                   App                                   |  Language  | Auto-Update ? |
 | :---------------------------------------------------------------------: | :--------: | :-----------: |
-|          [cargo-dist](https://github.com/axodotdev/cargo-dist)          |    rust    |       ✓       |
-|             [chatgpt-cli](https://github.com/j178/chatgpt)              |     go     |       ✓       |
-|          [cxx2flow](https://github.com/Enter-tainer/cxx2flow)           |    rust    |       ✓       |
-| [excalidraw-converter](https://github.com/sindrel/excalidraw-converter) |     go     |       ✓       |
-|               [gauth](https://github.com/pcarrier/gauth)                |     go     |       ✓       |
-|        [ltex-ls-plus](https://github.com/ltex-plus/ltex-ls-plus)        |   kotlin   |       ✓       |
-|                 [mado](https://github.com/akiomik/mado)                 |    rust    |       ✓       |
-|            [micromamba](https://github.com/mamba-org/mamba)             |    c++     |       ✓       |
-|        [neocmakelsp](https://github.com/neocmakelsp/neocmakelsp)        |    rust    |       ✓       |
-|          [n-m3u8dl-re](https://github.com/nilaoda/N_m3u8DL-RE)          |     c#     |       ✓       |
-|               [pixi](https://github.com/prefix-dev/pixi)                |    rust    |       ✓       |
+|          [cargo-dist](https://github.com/axodotdev/cargo-dist)          |    Rust    |       ✓       |
+|             [chatgpt-cli](https://github.com/j178/chatgpt)              |     Go     |       ✓       |
+|          [cxx2flow](https://github.com/Enter-tainer/cxx2flow)           |    Rust    |       ✓       |
+| [excalidraw-converter](https://github.com/sindrel/excalidraw-converter) |     Go     |       ✓       |
+|               [gauth](https://github.com/pcarrier/gauth)                |     Go     |       ✓       |
+|        [ltex-ls-plus](https://github.com/ltex-plus/ltex-ls-plus)        |   Kotlin   |       ✓       |
+|                 [mado](https://github.com/akiomik/mado)                 |    Rust    |       ✓       |
+|            [micromamba](https://github.com/mamba-org/mamba)             |    C++     |       ✓       |
+|        [neocmakelsp](https://github.com/neocmakelsp/neocmakelsp)        |    Rust    |       ✓       |
+|          [n-m3u8dl-re](https://github.com/nilaoda/N_m3u8DL-RE)          |     C#     |       ✓       |
+|               [pixi](https://github.com/prefix-dev/pixi)                |    Rust    |       ✓       |
 |         [pscompletions](https://github.com/abgox/PSCompletions)         | powershell |       ✓       |
-|                         [qlty](https://qlty.sh)                         |    rust    |       ✓       |
-|             [sendme](https://github.com/n0-computer/sendme)             |    rust    |       ✓       |
-|             [serpl](https://github.com/yassinebridi/serpl)              |    rust    |       ✓       |
-|           [shiroa](https://github.com/Myriad-Dreamin/shiroa)            |    rust    |       ✓       |
-|              [sttr](https://github.com/abhimanyu003/sttr)               |     go     |       ✓       |
-|            [tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt)            |    rust    |       ✓       |
-|             [typship](https://github.com/sjfhsjfh/typship)              |    rust    |       ✓       |
-|          [typstyle](https://github.com/Enter-tainer/typstyle)           |    rust    |       ✓       |
-|         [wthrr](https://github.com/ttytm/wthrr-the-weathercrab)         |    rust    |       ✓       |
+|                         [qlty](https://qlty.sh)                         |    Rust    |       ✓       |
+|             [sendme](https://github.com/n0-computer/sendme)             |    Rust    |       ✓       |
+|             [serpl](https://github.com/yassinebridi/serpl)              |    Rust    |       ✓       |
+|           [shiroa](https://github.com/Myriad-Dreamin/shiroa)            |    Rust    |       ✓       |
+|              [sttr](https://github.com/abhimanyu003/sttr)               |     Go     |       ✓       |
+|            [tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt)            |    Rust    |       ✓       |
+|             [typship](https://github.com/sjfhsjfh/typship)              |    Rust    |       ✓       |
+|          [typstyle](https://github.com/Enter-tainer/typstyle)           |    Rust    |       ✓       |
+|         [wthrr](https://github.com/ttytm/wthrr-the-weathercrab)         |    Rust    |       ✓       |
+|               [yutu](https://github.com/eat-pray-ai/yutu)               |     Go     |       ✓       |
