@@ -1,0 +1,14 @@
+{
+    "version": "0.6.1",
+    "homepage": "https://github.com/cryptomator/cli",
+    "description": "Cryptomator Command-Line Interface",
+    "license": "AGPL-3.0 license",
+    "url": "https://github.com/cryptomator/cli/releases/download/0.6.1/cryptomator-cli-0.6.1-win-x64.zip",
+    "hash": "7912ace85af3b4aafd553cec076844158df9884d3193aeca69490fff334b2f7c",
+    "extract_dir": "cryptomator-cli",
+    "bin": "cryptomator-cli.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/cryptomator/cli/releases/download/$version/cryptomator-cli-$version-win-x64.zip"
+    }
+}
