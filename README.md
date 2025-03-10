@@ -90,6 +90,7 @@ scoop config aria2-min-split-size 4M
 |          [cryptomator-cli](https://github.com/cryptomator/cli)          |    Rust    |       ✓       |
 |          [cxx2flow](https://github.com/Enter-tainer/cxx2flow)           |    Rust    |       ✓       |
 | [excalidraw-converter](https://github.com/sindrel/excalidraw-converter) |     Go     |       ✓       |
+|                [flow-control](https://flow-control.dev)                 |    Zig     |       ✓       |
 |               [gauth](https://github.com/pcarrier/gauth)                |     Go     |       ✓       |
 |        [ltex-ls-plus](https://github.com/ltex-plus/ltex-ls-plus)        |   Kotlin   |       ✓       |
 |                 [mado](https://github.com/akiomik/mado)                 |    Rust    |       ✓       |
