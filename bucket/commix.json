@@ -5,11 +5,11 @@
     "license": "https://github.com/commixproject/commix/blob/master/LICENSE.txt",
     "url": "https://github.com/commixproject/commix/archive/refs/tags/v4.0.zip",
     "hash": "2e69bfef830db2ac544a292594d6047be6c4695e5d1e364f696c767e70b3a05b",
-    "extract_dir": "commix-4.0",
-    "bin": "commix.py",
     "suggest": {
         "python": "python311"
     },
+    "extract_dir": "commix-4.0",
+    "bin": "commix.py",
     "checkver": {
         "github": "https://github.com/commixproject/commix"
     },
