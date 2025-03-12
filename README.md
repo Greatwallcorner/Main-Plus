@@ -93,7 +93,8 @@ scoop config aria2-min-split-size 4M
 | [excalidraw-converter](https://github.com/sindrel/excalidraw-converter) |     Go     |       ✓       |
 |                [flow-control](https://flow-control.dev)                 |    Zig     |       ✓       |
 |               [gauth](https://github.com/pcarrier/gauth)                |     Go     |       ✓       |
-|           [llama.cpp](https://github.com/ggerganov/llama.cpp)           |     Go     |       ✓       |
+|           [llama.cpp](https://github.com/ggerganov/llama.cpp)           |    C++     |       ✓       |
+|        [llama.cpp-cuda](https://github.com/ggerganov/llama.cpp)         |    C++     |       ✓       |
 |           [lazysql](https://github.com/jorgerojas26/lazysql)            |     Go     |       ✓       |
 |        [ltex-ls-plus](https://github.com/ltex-plus/ltex-ls-plus)        |   Kotlin   |       ✓       |
 |                 [mado](https://github.com/akiomik/mado)                 |    Rust    |       ✓       |
