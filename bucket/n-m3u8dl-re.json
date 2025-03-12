@@ -3,6 +3,9 @@
     "description": "A modern and powerful stream downloader for MPD/M3U8/ISM.",
     "homepage": "https://github.com/nilaoda/N_m3u8DL-RE",
     "license": "MIT",
+    "suggest": {
+        "ffmpeg": "ffmpeg"
+    },
     "architecture": {
         "64bit": {
             "url": "https://github.com/nilaoda/N_m3u8DL-RE/releases/download/v0.3.0-beta/N_m3u8DL-RE_v0.3.0-beta_win-x64_20241201.zip",
@@ -12,9 +15,6 @@
             "url": "https://github.com/nilaoda/N_m3u8DL-RE/releases/download/v0.3.0-beta/N_m3u8DL-RE_v0.3.0-beta_win-arm64_20241201.zip",
             "hash": "1e19e3971a777b920fdad90e8eab01c6c5b79ff4c7364dda60be68f2db1c2823"
         }
-    },
-    "suggest": {
-        "ffmpeg": "ffmpeg"
     },
     "bin": "N_m3u8DL-RE.exe",
     "checkver": {
