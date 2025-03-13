@@ -95,7 +95,6 @@ scoop config aria2-min-split-size 4M
 |               [gauth](https://github.com/pcarrier/gauth)                |     Go     |       ✓       |
 |           [llama.cpp](https://github.com/ggerganov/llama.cpp)           |    C++     |       ✓       |
 |        [llama.cpp-cuda](https://github.com/ggerganov/llama.cpp)         |    C++     |       ✓       |
-|           [lazysql](https://github.com/jorgerojas26/lazysql)            |     Go     |       ✓       |
 |        [ltex-ls-plus](https://github.com/ltex-plus/ltex-ls-plus)        |   Kotlin   |       ✓       |
 |                 [mado](https://github.com/akiomik/mado)                 |    Rust    |       ✓       |
 |            [micromamba](https://github.com/mamba-org/mamba)             |    C++     |       ✓       |
