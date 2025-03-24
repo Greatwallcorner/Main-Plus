@@ -1,0 +1,13 @@
+{
+    "version": "1.4.0",
+    "description": "JSON terminal UI made in C++",
+    "homepage": "https://github.com/ArthurSonzogni/json-tui",
+    "license": "MIT",
+    "url": "https://github.com/ArthurSonzogni/json-tui/releases/download/v1.4.0/json-tui-1.4.0-win64.zip#/json-tui.exe",
+    "hash": "38f56e2fecd275aff05584afa409bf95db543d10a31adf16903f83d957c9326a",
+    "bin": "json-tui.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/ArthurSonzogni/json-tui/releases/download/v$version/json-tui-$version-win64.zip#/json-tui.exe"
+    }
+}
