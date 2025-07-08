@@ -100,7 +100,6 @@ scoop config aria2-min-split-size 4M
 |            [micromamba](https://github.com/mamba-org/mamba)             |    C++     |       ✓       |
 |        [neocmakelsp](https://github.com/neocmakelsp/neocmakelsp)        |    Rust    |       ✓       |
 |          [n-m3u8dl-re](https://github.com/nilaoda/N_m3u8DL-RE)          |     C#     |       ✓       |
-|                     [openlist](https://oplist.org)                      |     Go     |       ✓       |
 |               [pixi](https://github.com/prefix-dev/pixi)                |    Rust    |       ✓       |
 |         [pscompletions](https://github.com/abgox/PSCompletions)         | powershell |       ✓       |
 |                         [qlty](https://qlty.sh)                         |    Rust    |       ✓       |
