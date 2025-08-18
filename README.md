@@ -84,8 +84,9 @@ scoop config aria2-min-split-size 4M
 ## ⭐️ Summary
 
 |                                   App                                   |  Language  | Auto-Update ? |
-| :---------------------------------------------------------------------: | :--------: | :-----------: |
+|:-----------------------------------------------------------------------:|:----------:|:-------------:|
 |          [cargo-dist](https://github.com/axodotdev/cargo-dist)          |    Rust    |       ✓       |
+|     [cargo-update](https://github.com/nabijaczleweli/cargo-update)      |    Rust    |       ✓       |
 |             [chatgpt-cli](https://github.com/j178/chatgpt)              |     Go     |       ✓       |
 |            [choose](https://github.com/theryangeary/choose)             |    Rust    |       ✓       |
 |                   [commix](https://commixproject.com)                   |    Rust    |       ✓       |
