@@ -9,15 +9,15 @@ A Bucket for the Best Windows Package Manager [Scoop](https://github.com/ScoopIn
 
 > If you would like to be a co-maintainer, feel free to tell me in the Discussion.
 
+Enjoy the fun of command line!
+
+## 🏃 To Start
+
 For ones familiar with Scoop:
 
 ```powershell
 scoop bucket add main-plus https://github.com/Scoopforge/Main-Plus
 ```
-
-Enjoy the fun of command line!
-
-# 🏃 To Start
 
 ## 🚲 Install Scoop
 
