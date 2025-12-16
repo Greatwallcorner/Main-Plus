@@ -83,33 +83,34 @@ scoop config aria2-min-split-size 4M
 
 ## ⭐️ Summary
 
-|                                   App                                   |  Language  | Auto-Update ? |
-|:-----------------------------------------------------------------------:|:----------:|:-------------:|
-|          [cargo-dist](https://github.com/axodotdev/cargo-dist)          |    Rust    |       ✓       |
-|     [cargo-update](https://github.com/nabijaczleweli/cargo-update)      |    Rust    |       ✓       |
-|             [chatgpt-cli](https://github.com/j178/chatgpt)              |     Go     |       ✓       |
-|            [choose](https://github.com/theryangeary/choose)             |    Rust    |       ✓       |
-|                   [commix](https://commixproject.com)                   |    Rust    |       ✓       |
-|          [cryptomator-cli](https://github.com/cryptomator/cli)          |    Rust    |       ✓       |
-|          [cxx2flow](https://github.com/Enter-tainer/cxx2flow)           |    Rust    |       ✓       |
+|                             App                              |  Language  | Auto-Update ? |
+| :----------------------------------------------------------: | :--------: | :-----------: |
+|    [cargo-dist](https://github.com/axodotdev/cargo-dist)     |    Rust    |       ✓       |
+| [cargo-update](https://github.com/nabijaczleweli/cargo-update) |    Rust    |       ✓       |
+|        [chatgpt-cli](https://github.com/j178/chatgpt)        |     Go     |       ✓       |
+|       [choose](https://github.com/theryangeary/choose)       |    Rust    |       ✓       |
+|             [commix](https://commixproject.com)              |    Rust    |       ✓       |
+|    [cryptomator-cli](https://github.com/cryptomator/cli)     |    Rust    |       ✓       |
+|     [cxx2flow](https://github.com/Enter-tainer/cxx2flow)     |    Rust    |       ✓       |
 | [excalidraw-converter](https://github.com/sindrel/excalidraw-converter) |     Go     |       ✓       |
-|                [flow-control](https://flow-control.dev)                 |    Zig     |       ✓       |
-|               [gauth](https://github.com/pcarrier/gauth)                |     Go     |       ✓       |
-|         [json-tui](https://github.com/ArthurSonzogni/json-tui)          |    C++     |       ✓       |
-|              [lazyssh](https://github.com/Adembc/lazyssh)               |     Go     |       ✓       |
-|        [ltex-ls-plus](https://github.com/ltex-plus/ltex-ls-plus)        |   Kotlin   |       ✓       |
-|                 [mado](https://github.com/akiomik/mado)                 |    Rust    |       ✓       |
-|            [micromamba](https://github.com/mamba-org/mamba)             |    C++     |       ✓       |
-|        [neocmakelsp](https://github.com/neocmakelsp/neocmakelsp)        |    Rust    |       ✓       |
-|          [n-m3u8dl-re](https://github.com/nilaoda/N_m3u8DL-RE)          |     C#     |       ✓       |
-|               [pixi](https://github.com/prefix-dev/pixi)                |    Rust    |       ✓       |
-|         [pscompletions](https://github.com/abgox/PSCompletions)         | powershell |       ✓       |
-|                         [qlty](https://qlty.sh)                         |    Rust    |       ✓       |
-|             [sendme](https://github.com/n0-computer/sendme)             |    Rust    |       ✓       |
-|             [serpl](https://github.com/yassinebridi/serpl)              |    Rust    |       ✓       |
-|           [shiroa](https://github.com/Myriad-Dreamin/shiroa)            |    Rust    |       ✓       |
-|              [sttr](https://github.com/abhimanyu003/sttr)               |     Go     |       ✓       |
-|            [tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt)            |    Rust    |       ✓       |
-|             [typship](https://github.com/sjfhsjfh/typship)              |    Rust    |       ✓       |
-|         [wthrr](https://github.com/ttytm/wthrr-the-weathercrab)         |    Rust    |       ✓       |
-|               [yutu](https://github.com/eat-pray-ai/yutu)               |     Go     |       ✓       |
+|           [flow-control](https://flow-control.dev)           |    Zig     |       ✓       |
+|          [gauth](https://github.com/pcarrier/gauth)          |     Go     |       ✓       |
+|    [json-tui](https://github.com/ArthurSonzogni/json-tui)    |    C++     |       ✓       |
+|         [lazyssh](https://github.com/Adembc/lazyssh)         |     Go     |       ✓       |
+|  [ltex-ls-plus](https://github.com/ltex-plus/ltex-ls-plus)   |   Kotlin   |       ✓       |
+|           [mado](https://github.com/akiomik/mado)            |    Rust    |       ✓       |
+|       [micromamba](https://github.com/mamba-org/mamba)       |    C++     |       ✓       |
+|  [neocmakelsp](https://github.com/neocmakelsp/neocmakelsp)   |    Rust    |       ✓       |
+|    [n-m3u8dl-re](https://github.com/nilaoda/N_m3u8DL-RE)     |     C#     |       ✓       |
+|          [pixi](https://github.com/prefix-dev/pixi)          |    Rust    |       ✓       |
+|   [pscompletions](https://github.com/abgox/PSCompletions)    | powershell |       ✓       |
+|                   [qlty](https://qlty.sh)                    |    Rust    |       ✓       |
+|       [sendme](https://github.com/n0-computer/sendme)        |    Rust    |       ✓       |
+|        [serpl](https://github.com/yassinebridi/serpl)        |    Rust    |       ✓       |
+|      [shiroa](https://github.com/Myriad-Dreamin/shiroa)      |    Rust    |       ✓       |
+|         [sttr](https://github.com/abhimanyu003/sttr)         |     Go     |       ✓       |
+|      [tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt)       |    Rust    |       ✓       |
+|        [typship](https://github.com/sjfhsjfh/typship)        |    Rust    |       ✓       |
+|   [wthrr](https://github.com/ttytm/wthrr-the-weathercrab)    |    Rust    |       ✓       |
+|         [yutu](https://github.com/eat-pray-ai/yutu)          |     Go     |       ✓       |
+|                            nebula                            |     Go     |       ✓       |
