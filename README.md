@@ -98,7 +98,6 @@ scoop config aria2-min-split-size 4M
 |         [json-tui](https://github.com/ArthurSonzogni/json-tui)          |    C++     |       ✓       |
 |              [lazyssh](https://github.com/Adembc/lazyssh)               |     Go     |       ✓       |
 |        [ltex-ls-plus](https://github.com/ltex-plus/ltex-ls-plus)        |   Kotlin   |       ✓       |
-|                 [mado](https://github.com/akiomik/mado)                 |    Rust    |       ✓       |
 |            [micromamba](https://github.com/mamba-org/mamba)             |    C++     |       ✓       |
 |               [nebula](https://github.com/slackhq/nebula)               |     Go     |       ✓       |
 |        [neocmakelsp](https://github.com/neocmakelsp/neocmakelsp)        |    Rust    |       ✓       |
@@ -106,6 +105,7 @@ scoop config aria2-min-split-size 4M
 |               [pixi](https://github.com/prefix-dev/pixi)                |    Rust    |       ✓       |
 |         [pscompletions](https://github.com/abgox/PSCompletions)         | powershell |       ✓       |
 |                         [qlty](https://qlty.sh)                         |    Rust    |       ✓       |
+|                 [rumdl](https://github.com/rvben/rumdl)                 |    Rust    |       ✓       |
 |             [sendme](https://github.com/n0-computer/sendme)             |    Rust    |       ✓       |
 |             [serpl](https://github.com/yassinebridi/serpl)              |    Rust    |       ✓       |
 |           [shiroa](https://github.com/Myriad-Dreamin/shiroa)            |    Rust    |       ✓       |
