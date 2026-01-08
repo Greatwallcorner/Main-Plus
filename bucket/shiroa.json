@@ -14,7 +14,9 @@
         }
     },
     "bin": "shiroa.exe",
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/Myriad-Dreamin/shiroa"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
