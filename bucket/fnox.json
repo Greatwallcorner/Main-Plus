@@ -20,7 +20,7 @@
                 "url": "https://github.com/jdx/fnox/releases/download/v$version/fnox-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "ttps://github.com/jdx/fnox/releases/download/v$version/fnox-aarch64-pc-windows-msvc.zip"
+                "url": "https://github.com/jdx/fnox/releases/download/v$version/fnox-aarch64-pc-windows-msvc.zip"
             }
         }
     },
